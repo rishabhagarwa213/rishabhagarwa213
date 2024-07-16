@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol</h1>
+<h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">Software Developer | Pushing Boundaries in Coding | Problem Solver | I help Achieve Efficiency and Innovation through Robust Applications by Crafting User-friendly Software, Websites and Powerful Backend Systems</h3>
 
 - 🌱 I’m currently learning **AI & ML**
