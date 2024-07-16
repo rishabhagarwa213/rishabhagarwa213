@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👨‍💻 All of my projects are available at [https://eranmolgurjar.github.io/](https://eranmolgurjar.github.io/)
+- 👨‍💻 All of my projects are available at [https://rishabhagarwa213.github.io/rishabhagarwal.github.io/)
 
 - 💬 Ask me about **Python, C, C#, PHP, HTML, CSS, JavaScript, MERN Stack, and more.**
 
