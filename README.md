@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, C, C#, PHP, HTML, CSS, JavaScript, MERN Stack, and more.**
 
-- 📫 How to reach me **eranmolgurjar@gmail.com**
+- 📫 How to reach me **rishabhagarwal@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AKOeihfkvzShlJ3Yi-aopgW-FPTh5-Cv/view](https://drive.google.com/file/d/1AKOeihfkvzShlJ3Yi-aopgW-FPTh5-Cv/view)
 
